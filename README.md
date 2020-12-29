@@ -1,7 +1,7 @@
-# AutoScript
+# AutoScript 233333
 ![Automatic sweepstakes](https://github.com/shanmite/LotteryAutoScript/workflows/Automatic%20sweepstakes/badge.svg)  
 ## 动态抽奖  
-通过Github Actions挂载Nodejs脚本  
+通过Github Actions挂载Nodejs脚本  111111111
 > [Actions官方文档](https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions)
 
 ---
